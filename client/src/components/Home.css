@@ -1,0 +1,30 @@
+body{
+    background-image: url(../components/hedervar12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position: center center;
+}
+
+@media screen and (min-width: 600px) {
+    .intro{
+        background-color: rgba(31, 58, 24, 0.5);
+        position: fixed;
+        top: 60%;
+        left: 45%;
+        transform: translate(-50%,-50%);
+        }   
+}
+
+@media screen and (max-width: 599px) {
+    .intro{
+        background-color: rgb(31,58,24,0.5);
+        position: fixed;
+        top: 50px;
+        left: 0px;
+        }
+}
+
+.p{
+    text-align: left;
+}
