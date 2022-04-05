@@ -12,4 +12,4 @@ const getFilter=(req,res)=>{
     })
 }
 
-module.exports={getFilter}
+module.exports = {getFilter}
