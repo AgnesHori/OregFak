@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OregFak/static/css/main.9b087ab8.css",
+    "main.js": "/OregFak/static/js/main.fcbd8722.js",
+    "static/js/787.fa633d22.chunk.js": "/OregFak/static/js/787.fa633d22.chunk.js",
+    "static/media/hedervar12.jpg": "/OregFak/static/media/hedervar12.191f9a5cab6ce1aa9a55.jpg",
+    "index.html": "/OregFak/index.html",
+    "main.9b087ab8.css.map": "/OregFak/static/css/main.9b087ab8.css.map",
+    "main.fcbd8722.js.map": "/OregFak/static/js/main.fcbd8722.js.map",
+    "787.fa633d22.chunk.js.map": "/OregFak/static/js/787.fa633d22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b087ab8.css",
+    "static/js/main.fcbd8722.js"
+  ]
+}
